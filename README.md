@@ -7,6 +7,8 @@ Please fo to "Form1.resx" file, press right button and UNLOCK it
 
 ![image](https://user-images.githubusercontent.com/53542058/157174465-6c9f7437-9cd5-4d98-81bf-c0206e6ff78c.png)
 
+![image](https://user-images.githubusercontent.com/53542058/157174715-c929ffa3-86f2-4384-9c7a-7ee36a2d4613.png)
+
 
 Description:
 On the left side we can see a treeview with the downloads current windows user as default
